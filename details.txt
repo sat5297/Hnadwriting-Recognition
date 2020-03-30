@@ -1,0 +1,6 @@
+The project aims at determining the human handwritten digit.
+
+The project uses the MNIST Dataset for the purpose of training the model.
+
+The model uses various activation functions and the libraries for this purpose.
+
